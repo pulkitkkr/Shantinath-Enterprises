@@ -1,0 +1,238 @@
+﻿Body
+{
+margin:0px;
+padding:0px;
+background:url(gifs/page-bg.jpg);
+}
+
+H1 {font-family:trebuchet MS,arial,verdana;font-size:19px;color:#0E7B9C;margin-bottom:5px; 	
+margin-top:35px;margin-left:225px;text-transform:uppercase;
+    width: 722px;
+}
+
+.comp-text{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:225px;padding-right:20px;line-height:21px;text-align:justify;padding-bottom:20px;
+padding-top:5px;}
+
+.comp-text ul{margin:0px;padding-left:20px;padding-top:5px;}
+
+.comp-text ol{margin:0px;padding-left:25px;}
+
+.comp-text A{color:#527D00;text-decoration:underline;}
+.comp-text A:hover{color:#03549E;text-decoration:none;}
+
+.comp-text1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:10px;padding-right:20px;line-height:21px;text-align:justify;padding-bottom:20px;
+padding-top:5px;
+    height: 33px;
+}
+
+.comp-text1 ul{margin:0px;padding-left:20px;padding-top:5px;}
+
+.comp-text1 ol{margin:0px;padding-left:25px;}
+
+.comp-text1 A{color:#527D00;text-decoration:underline;}
+.comp-text1 A:hover{color:#03549E;text-decoration:none;}
+
+.table{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding:5px;line-height:17px;background:#F6F6F6;font-weight:bold;text-align:center;}
+
+.table A{color:#ffffff;text-decoration:none;}
+.table A:hover{color:#ffff00;text-decoration:underline;}
+
+.table1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#3B78A1;
+padding:5px;text-align:center;font-weight:bold;background:#CAE6F9;line-height:19px;}
+
+.table2{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding:5px;background:#DAF0FF;line-height:19px;}
+
+.bot-link{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ffffff;
+text-align:center;padding:10px;
+    width: 833px;
+}
+
+.bot-link A{color:#ffffff;text-decoration:none;}
+.bot-link A:hover{color:#ffff00;text-decoration:underline;}
+
+
+
+.footer{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ffffff;
+text-align:center;padding:2px;line-height:17px;}
+
+.footerb.wh{color:#ffffff;}
+
+.footer A{color:#ffffff;text-decoration:none;}
+.footer A:hover{color:#ffffff;text-decoration:underline;}
+
+.background{background:#000000;}
+
+.line{border-bottom:1px solid #000000;margin-left:20px;margin-right:20px;}
+
+.back-img1{background:url(gifs/bg1.jpg);height:88px;
+    width: 1458px;
+}
+
+.home-bg{background:url(gifs/bg3.jpg);height:155px;}
+
+.fla-bg{background:url(gifs/fla-bg.jpg) repeat-x;}
+
+.back-img2{background:url(gifs/bg2.jpg);height:124px;}
+
+.back-img3{background:url(gifs/bg3.jpg);height:209px;}
+
+.back-img4{background:url(gifs/bg4.jpg);}
+
+.back-img5{background:url(gifs/bg5.jpg);height:162px;}
+
+.back-img6{background:url(gifs/bg6.jpg);height:48px;}
+
+.back-img7{background:url(gifs/bg7.jpg);height:227px;}
+
+.back-img8{background:url(gifs/mid-bg.jpg);height:7px;}
+
+.back-img9{background:url(gifs/mid-bg1.jpg);height:8px;}
+
+.bot-line{background:url(gifs/yellow-bg.jpg);height:13px;
+margin-top:1px;}
+
+.home{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#4C4C4C;
+padding-top:30px;padding-left:225px;}
+.home A{color:#0E7B9C;text-decoration:underline;}
+.home A:hover{color:#333027;text-decoration:none;}
+
+.t-link{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ffffff;
+text-align:center;padding-top:2px;
+    width: 192px;
+}
+.t-link A{color:#ffffff;text-decoration:none;}
+.t-link A:hover{color:#ffff00;text-decoration:none;}
+
+.left-table{float:left;width:215px;
+    height: 720px;
+}
+
+.line1{border-bottom:1px dotted #E3E3E3;margin-left:20px;margin-right:285px;}
+
+.enq-text1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:15px;}
+
+.enq-text2{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:225px;line-height:19px;}
+.enq-text2 b.wh{font-size:18px;color:#D64F1D;}
+
+.enq-text2 A{color:#D80F21;text-decoration:none;}
+.enq-text2 A:hover{color:#000000;text-decoration:underline;}
+
+.enq-text{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:15px;}
+.enq-text b{text-decoration:underline;}
+
+.bot-link1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ffffff;
+text-align:center;font-weight:bold;}
+
+.bot-link1 A{color:#ffffff;text-decoration:none;}
+.bot-link1 A:hover{color:#ffff00;text-decoration:none;}
+
+
+.req{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#C1091A;
+padding-right:227px;font-weight:bold;}
+.req A{color:#C1091A;text-decoration:underline;}
+.req A:hover{color:#000000;text-decoration:none;}
+
+.read{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#BE270B;
+padding-top:6px;}
+.read A{color:#BE270B;text-decoration:underline;}
+.read A:hover{color:#000000;text-decoration:none;}
+
+
+.product-main1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#313131;
+background:url(gifs/left-bg.jpg) repeat-y;font-weight:bold;}
+
+.product-main1 ul{list-style:none;margin:0px;padding:0px;}
+
+.product-main1 ul li{
+padding:3px 3px 3px 37px;
+background:url(gifs/arrow.gif) no-repeat 22px 11px;line-height:21px;}
+
+.product-main1 ul li.main1{padding:3px 3px 3px 30px;
+background:#F7F7F7 url('gifs/arrow.gif') no-repeat 15px 11px;
+margin-right:2px;margin-left:7px;
+}
+
+.product-main1 A{color:#313131;text-decoration:none;
+    background-color: #FFFFFF;
+}
+.product-main1 A:hover{color:#1A3785;text-decoration:none;}
+
+.enq-text1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:15px;}
+
+
+.feed{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#666666;
+text-align:center;}
+
+.feed A{color:#5D80F21;text-decoration:underline;}
+.feed A:hover{color:#000000;text-decoration:none;}
+
+.more{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ff0000;
+padding-right:20px;padding-top:5px;}
+
+.more A{color:#ff0000;text-decoration:underline;}
+.more A:hover{color:#000000;text-decoration:none;}
+
+.more1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ffff00;
+padding-right:20px;padding-top:2px;text-align:right;}
+
+.more1 A{color:#ffff00;text-decoration:underline;}
+.more1 A:hover{color:#ffffff;text-decoration:none;}
+
+.sub-head{font-family:verdana,trebuchet MS,arial;font-size:12px;color:#1B3982;
+padding-left:10px;font-weight:bold;}
+.sub-head b.wh{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#333027;}
+
+.sub-head1{font-family:verdana,trebuchet MS,arial;font-size:12px;color:#1B3982;
+padding-left:225px;font-weight:bold;}
+
+.left-width{background:url(gifs/left-img.jpg) repeat-y;}
+
+.right-width{background:url(gifs/right-img.jpg) repeat-y;background-position:right;}
+
+.mid{margin-left:37px;margin-right:35px;}
+
+.backg{background:#F7F9FD;margin:0px 10px 20px 230px;border:1px solid #E5EBF7;
+    width: 710px;
+    height: 383px;
+}
+
+.bot-head{font-family:verdana,trebuchet MS,arial;font-size:12px;color:#000000;
+padding:10px 5px 5px 5px;font-weight:bold;}
+
+.bot-head-text{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding:5px;text-align:justify;line-height:19px;width:200px;}
+
+.heading{font-family:trebuchet MS,arial,verdana;font-size:19px;color:#0E7B9C;margin-bottom:5px; 	
+margin-top:35px;margin-left:225px;}
+
+.head-text{font-family:verdana,trebuchet MS,arial;font-size:12px;color:#2C4A88;
+font-weight:bold;padding-left:225px;padding-top:20px;}
+
+.comp-text-2{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#000000;
+padding-left:225px;padding-right:20px;line-height:21px;text-align:justify;padding-bottom:5px;
+padding-top:5px;}
+
+.comp-text-1{font-family:verdana,trebuchet MS,arial;font-size:11px;color:#ffffff;
+padding-left:20px;padding-right:20px;line-height:21px;text-align:justify;padding-bottom:5px;
+padding-top:5px;}
+
+.comp-text-3{font-family:arial,verdana,trebuchet MS;font-size:17px;color:#000000;
+padding-left:225px;padding-right:20px;line-height:21px;text-align:justify;padding-bottom:5px;
+padding-top:5px;}
+
+.comp-text-3 A{color:#ff0000;text-decoration:underline;}
+.comp-text-3 A:hover{color:#000000;text-decoration:none;}
+
+.comp-text-4{font-family:arial,verdana,trebuchet MS;font-size:17px;color:#ff0000;
+padding-left:225px;padding-right:20px;line-height:21px;text-align:center;padding-bottom:5px;
+padding-top:5px;text-decoration:underline;}
+
+.flags{height:79px;padding-top:60px;}
